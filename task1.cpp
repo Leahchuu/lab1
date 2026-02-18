@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 int main () {
-  int n, sumX, sumY, sumZ;
+	int n;
+	int sumX, sumY, sumZ;
   cin >> n;
   for (int i=0; i<n; i++) {
     int x, y, z;
